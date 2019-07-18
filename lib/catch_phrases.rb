@@ -19,7 +19,7 @@ def any_phrase
   puts phrase
 end
 
-mario
-toadstool
-link
-any_phrase(phrase)
+puts mario
+puts toadstool
+puts link
+puts any_phrase
