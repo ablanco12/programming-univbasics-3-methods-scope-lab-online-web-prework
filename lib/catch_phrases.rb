@@ -19,3 +19,7 @@ def any_phrase
   puts phrase
 end
 
+mario
+toadstool
+link
+any_phrase(phrase)
